@@ -7,7 +7,7 @@
         public const string Rule = root + "/" + version + "/";
         public const string WithId = "{id}";
 
-        public static class UserRouting
+        public static class ApplicationUserRouting
         {
             // Api/V1/User
             private const string Prefix = Rule + "User/";
