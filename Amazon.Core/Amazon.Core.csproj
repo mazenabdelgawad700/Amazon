@@ -7,10 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Behaviors\" />
     <Folder Include="Features\" />
     <Folder Include="Mapping\" />
-    <Folder Include="MiddleWares\" />
   </ItemGroup>
 
   <ItemGroup>
